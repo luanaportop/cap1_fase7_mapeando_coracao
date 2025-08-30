@@ -95,13 +95,29 @@ Portanto, este dataset não apenas reflete variáveis utilizadas na prática mé
 
 **Origem dos Dados**
 
+Utilizamos o dataset público do PhysioNet – Dataset for Segmentation and Classification of Cardiac Implantable Electronic Devices in Chest X-Rays:
+👉 [Link para as imagens no PhysioNet](https://physionet.org/content/cardiac-implantable-device-cxr/1.0.0/originals/)  
 
+- **Autores**: Keno Bressem,  Felix Busch,  Andrei Zhukov,  Lisa Adams  
+- **Formato**: PNG  
+- **Total de registros**: 2,321
 
 
  🌐 Link para Download
 
 As imagens estão hospedadas em nosso repositório pessoal:
-👉 Google Drive/OneDrive
+👉 [Google Drive](https://drive.google.com/drive/folders/16uYB4JKlMxnXxFq0bDDPcdMxGRKIpsOy?usp=sharing)
+
+
+**🩺 Justificativa Clínica**
+
+A escolha do banco de imagens radiográficas de pacientes com dispositivos cardiológicos implantáveis (CIEDs) justifica-se pela relevância clínica e pelo potencial de aplicação em projetos de Inteligência Artificial voltados à saúde. Os CIEDs, que incluem marcapassos, desfibriladores implantáveis, monitores e dispositivos de ressincronização cardíaca, desempenham papel essencial na prevenção de mortes súbitas, na regulação elétrica do coração e no acompanhamento contínuo de condições cardiovasculares. Considerando que as doenças do coração permanecem entre as principais causas de mortalidade global, a identificação precisa e rápida desses dispositivos é de grande impacto tanto em contextos de emergência quanto em acompanhamento clínico de longo prazo.
+
+Do ponto de vista técnico, as imagens radiográficas oferecem condições ideais para análises com algoritmos de Visão Computacional, uma vez que permitem a detecção de padrões estruturais, a segmentação de áreas de interesse, o reconhecimento de anomalias e a classificação de diferentes modelos de dispositivos. Essa capacidade pode contribuir para a automatização de processos tradicionalmente dependentes da interpretação manual, aumentando a eficiência, reduzindo erros e oferecendo suporte em cenários críticos.
+
+Além disso, o banco de dados utilizado possui robustez metodológica, abrangendo mais de uma década de registros coletados em ambiente hospitalar, com diversidade de fabricantes e modelos de CIEDs. As imagens foram devidamente anonimizadas, garantindo conformidade com princípios de Governança de Dados e mitigação de riscos relacionados a privacidade e vieses. Esse cuidado torna o conjunto de dados não apenas seguro para pesquisa, mas também adequado para o treinamento e validação de modelos de IA com potencial aplicação em sistemas clínicos reais.
+
+Dessa forma, a seleção desse banco de imagens se mostra coerente com os objetivos do projeto, pois alia relevância médica, potencial analítico e conformidade ética, estabelecendo uma base sólida para o desenvolvimento de soluções inovadoras em saúde digital.
 
 ---
 
