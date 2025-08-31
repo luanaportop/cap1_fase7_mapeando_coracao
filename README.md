@@ -86,7 +86,53 @@ Portanto, este dataset não apenas reflete variáveis utilizadas na prática mé
 
 ### Parte 2 – Dados Textuais (NLP)
 
-**Origem dos Dados**
+Análise de Textos sobre Doenças Cardiovasculares com NLP
+
+Este repositório contém dois arquivos de texto (.txt) relacionados a doenças cardiovasculares no Brasil, com foco em tendências de mortalidade e fatores associados à saúde da população. Os textos foram obtidos de fontes confiáveis da área da saúde pública e estão disponíveis na subpasta assets/.
+
+Textos Disponíveis
+
+Tendências de mortalidade por doença cardiovascular de acordo com sexo e faixa etária no Brasil: dados do Global Burden of Diseases - 1990-2021
+
+Fonte: BVS (Biblioteca Virtual em Saúde)
+
+Link: https://pesquisa.bvsalud.org/brasil/resource/pt/biblio-1610015
+
+Descrição: Estudo sobre as variações na mortalidade por doenças cardiovasculares ao longo do tempo, considerando diferentes faixas etárias e o sexo biológico dos pacientes.
+
+Fatores associados às doenças cardiovasculares na população adulta brasileira: Pesquisa Nacional de Saúde, 2019
+
+Fonte: SciELO
+
+Link: https://www.scielosp.org/article/rbepid/2021.v24suppl2/e210013/pt/
+
+Descrição: Análise dos fatores de risco e determinantes sociais ligados à incidência de doenças cardiovasculares com base em dados da Pesquisa Nacional de Saúde.
+
+Possíveis Aplicações com NLP
+
+Os textos incluídos podem ser explorados por meio de técnicas de Processamento de Linguagem Natural (NLP) para gerar insights úteis para aplicações em Inteligência Artificial na área da saúde. Algumas possibilidades incluem:
+
+Extração de Sintomas e Fatores de Risco: Identificar automaticamente menções a sintomas clínicos, condições associadas, e comportamentos de risco para doenças cardiovasculares.
+
+Classificação de Tópicos: Agrupar trechos dos textos em categorias temáticas como "epidemiologia", "tratamento", "prevenção", "determinantes sociais", entre outros.
+
+Análise Temporal e Demográfica: Identificar padrões temporais (por ano ou década) e demográficos (por sexo ou faixa etária) mencionados nos dados textuais.
+
+Análise de Sentimentos ou Polaridade: Embora mais comum em contextos de opinião, pode ser adaptada para avaliar a gravidade percebida ou ênfase dada a determinados fatores ou riscos nas publicações.
+
+Reconhecimento de Entidades Nomeadas (NER): Detectar automaticamente nomes de instituições, regiões geográficas, medicamentos, e outros termos relevantes do domínio médico.
+
+Relevância para a Inteligência Artificial em Saúde
+
+A utilização de NLP para analisar textos científicos e de saúde pública permite automatizar a extração de conhecimento a partir de grandes volumes de dados não estruturados. Isso é essencial para:
+
+Tomada de decisão baseada em dados em políticas públicas de saúde;
+
+Apoio à pesquisa médica, facilitando revisões sistemáticas automatizadas;
+
+Desenvolvimento de sistemas de recomendação ou triagem médica automatizada;
+
+Monitoramento de tendências e emergências sanitárias com base em literatura e relatórios.
 
 
 ---
