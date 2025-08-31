@@ -1,0 +1,41 @@
+TENDÊNCIAS DE MORTALIDADE POR DOENÇA CARDIOVASCULAR DE ACORDO COM SEXO E FAIXA ETÁRIA NO BRASIL: DADOS DO GLOBAL BURDEN OF DISEASES - 1990-2021
+
+Autores:
+- Luiz Eiji Taira
+- A.G. Laurinavicius
+- J.B. Souza
+- F. Consolim-Colombo
+- M.G. Sousa
+- F.Y. Cesena
+
+Instituições:
+- Faculdade de Ciências Médicas da Santa Casa de São Paulo - São Paulo - SP - Brasil
+- Instituto Dante Pazzanese de Cardiologia - São Paulo - SP - Brasil
+
+Introdução
+A principal causa de mortalidade no Brasil e no mundo são as doenças cardiovasculares (DCV), representando um grande desafio para a gestão de saúde pública. Nesse sentido, a análise e o conhecimento de tendências de mortalidade por DCV são importantes para guiar políticas públicas, compreender os avanços no controle dessas doenças e identificar grupos populacionais mais vulneráveis. 
+Este estudo teve como objetivo avaliar tendências de mortalidade por DCV, de acordo com sexo e faixa etária, de 1990 a 2021 no Brasil.
+
+Métodos
+Dados de mortalidade por DCV foram coletados do estudo Global Burden of Diseases (GBD), disponíveis em: https://vizhub.healthdata.org/gbd-results/
+Três faixas etárias foram avaliadas: 
+- 15-49 anos 
+- 50-69 anos 
+- ≥70 anos
+
+A análise de tendências foi realizada por modelos de regressão por pontos de inflexão (joinpoints), através do Joinpoint Regression Program do National Cancer Institute. São reportadas a mudança percentual anual (MPA) e a MPA média (MPAM) em dado período de tempo.
+
+Resultados
+- Mulheres: Mortalidade por DCV ajustada por idade reduziu de 287 (IC95%: 261-300) por 100.000 em 1990 para 127 (111-135) por 100.000 em 2021. MPAM = -2,6% (IC95%: -2,6% a -2,5%, p <0,001).
+- Homens: Mortalidade por DCV ajustada reduziu de 387 (IC95%: 367-396) por 100.000 em 1990 para 188 (175-197) por 100.000 em 2021. MPAM = -2,2% (IC95%: -2,3% a -2,2%, p <0,001).
+
+Observações:
+- Mortalidade bruta por DCV reduziu significativamente em todas as faixas etárias de 1990 a 2021.
+- Nos últimos anos, observou-se interrupção da queda em homens <50 anos e mulheres <70 anos.
+- Houve desaceleração da queda em homens de 50-69 anos.
+- Em homens e mulheres ≥70 anos, a redução da mortalidade segue sem indícios de desaceleração.
+
+Conclusões
+Houve redução significativa da mortalidade por DCV ajustada por idade em homens e mulheres no Brasil nas últimas décadas. 
+Contudo, tendências recentes diferem de acordo com sexo e faixa etária. 
+A desaceleração ou interrupção da tendência de queda da mortalidade em indivíduos <70 anos requer maior atenção.
