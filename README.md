@@ -173,7 +173,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>assets</b>: arquivos relacionados a elementos visuais do repositório, como imagens e ícones.
 
-- 
+- <b>Dados</b>: Base de dados em CSV.
 
 - <b>README.md</b>: guia completo e explicativo sobre o projeto (este arquivo).
 
